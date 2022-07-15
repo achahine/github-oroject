@@ -1,6 +1,6 @@
 //import logo from "./logo.svg";
 import "./App.css";
-import MyImage from "./avengers.jpg";
+import MyImage from "./710e605ba962be31ded25fd58ce7891f.png";
 
 function App() {
   return (
