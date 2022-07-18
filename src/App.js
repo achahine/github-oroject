@@ -18,7 +18,7 @@ function App() {
             <img className="absolute bg-none" src={Fire} alt="fire" />
           </div> */}
 
-          <p className="absolute font-bold italic text-9xl bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-red-600">
+          <p className="animate-ping absolute font-bold italic text-9xl bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-red-600">
             IRON MAN
           </p>
         </div>
